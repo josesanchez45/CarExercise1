@@ -1,0 +1,15 @@
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\bin\Debug\net6.0\CarClassExercise1.exe
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\bin\Debug\net6.0\CarClassExercise1.deps.json
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\bin\Debug\net6.0\CarClassExercise1.runtimeconfig.json
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\bin\Debug\net6.0\CarClassExercise1.dll
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\bin\Debug\net6.0\CarClassExercise1.pdb
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\CarClassExercise1.csproj.AssemblyReference.cache
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\CarClassExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\CarClassExercise1.AssemblyInfoInputs.cache
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\CarClassExercise1.AssemblyInfo.cs
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\CarClassExercise1.csproj.CoreCompileInputs.cache
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\CarClassExercise1.dll
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\refint\CarClassExercise1.dll
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\CarClassExercise1.pdb
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\CarClassExercise1.genruntimeconfig.cache
+C:\Users\17144\Desktop\repos\CarClassExercise1\CarClassExercise1\obj\Debug\net6.0\ref\CarClassExercise1.dll
